@@ -48,8 +48,7 @@ Automated workflow combining web scraping (Firecrawl), AI filtering (OpenAI) and
 Full CRUD with DTO validation via class-validator and custom pipes for MongoDB ObjectId.<br>
 `NestJS` `TypeScript` `MongoDB` `Mongoose`
 
-**[js-vanilla-crud-users](https://github.com/Markusams1984/js-vanilla-crud-users)** — CRUD without frameworks<br>
-User management app built with vanilla JavaScript and the Fetch API.<br>
+**[js-ahorcado](https://github.com/Markusams1984/js-ahorcado)** — Hangman game · **[Live demo](https://TU-URL.netlify.app)**<br>
 `JavaScript` `HTML` `CSS`
 
 ---
