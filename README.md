@@ -49,8 +49,8 @@ Full CRUD with DTO validation via class-validator and custom pipes for MongoDB O
 `NestJS` `TypeScript` `MongoDB` `Mongoose`
 
 **[js-ahorcado](https://github.com/Markusams1984/js-ahorcado)** — Hangman game · **[Live demo](https://ahorcado-marco.netlify.app)**<br>
-Browser game built with TypeScript. Game state handling and dynamic SVG rendering.<br>
-`TypeScript` `HTML` `CSS`
+Browser game built with React and TypeScript. Component-based architecture with typed helpers.<br>
+`React` `TypeScript` `Vite` `CSS`
 
 ---
 
