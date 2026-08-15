@@ -36,21 +36,20 @@ and automate workflows using n8n and AI.
 
 ### Featured Projects
 
-**[teslo-shop](https://github.com/Markusams1984/teslo-shop)** — E-commerce REST API
-Backend built with NestJS, TypeScript and PostgreSQL. Runs on Docker.
+**[teslo-shop](https://github.com/Markusams1984/teslo-shop)** — E-commerce REST API<br>
+Backend built with NestJS, TypeScript and PostgreSQL. Runs on Docker.<br>
 `NestJS` `TypeScript` `PostgreSQL` `TypeORM` `Docker`
 
-**[n8n-ai-news-scraper-automation](https://github.com/Markusams1984/n8n-ai-news-scraper-automation)** — AI news pipeline
-Automated workflow combining web scraping (Firecrawl), AI filtering (OpenAI) and report
-generation. Fault-tolerant architecture with exports to Google Workspace.
+**[n8n-ai-news-scraper-automation](https://github.com/Markusams1984/n8n-ai-news-scraper-automation)** — AI news pipeline<br>
+Automated workflow combining web scraping (Firecrawl), AI filtering (OpenAI) and report generation. Fault-tolerant architecture with exports to Google Workspace.<br>
 `n8n` `OpenAI` `Firecrawl` `Automation`
 
-**[nest-pokedex](https://github.com/Markusams1984/nest-pokedex)** — RESTful Pokedex API
-Full CRUD with DTO validation via class-validator and custom pipes for MongoDB ObjectId.
+**[nest-pokedex](https://github.com/Markusams1984/nest-pokedex)** — RESTful Pokedex API<br>
+Full CRUD with DTO validation via class-validator and custom pipes for MongoDB ObjectId.<br>
 `NestJS` `TypeScript` `MongoDB` `Mongoose`
 
-**[js-vanilla-crud-users](https://github.com/Markusams1984/js-vanilla-crud-users)** — CRUD without frameworks
-User management app built with vanilla JavaScript and the Fetch API.
+**[js-vanilla-crud-users](https://github.com/Markusams1984/js-vanilla-crud-users)** — CRUD without frameworks<br>
+User management app built with vanilla JavaScript and the Fetch API.<br>
 `JavaScript` `HTML` `CSS`
 
 ---
