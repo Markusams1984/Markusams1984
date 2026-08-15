@@ -48,8 +48,9 @@ Automated workflow combining web scraping (Firecrawl), AI filtering (OpenAI) and
 Full CRUD with DTO validation via class-validator and custom pipes for MongoDB ObjectId.<br>
 `NestJS` `TypeScript` `MongoDB` `Mongoose`
 
-**[js-ahorcado](https://github.com/Markusams1984/js-ahorcado)** — Hangman game · **[Live demo](https://TU-URL.netlify.app)**<br>
-`JavaScript` `HTML` `CSS`
+**[js-ahorcado](https://github.com/Markusams1984/js-ahorcado)** — Hangman game · **[Live demo](https://ahorcado-marco.netlify.app)**<br>
+Browser game built with TypeScript. Game state handling and dynamic SVG rendering.<br>
+`TypeScript` `HTML` `CSS`
 
 ---
 
